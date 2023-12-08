@@ -18,3 +18,11 @@ This repository contains the code for the SGSeq final project, which includes a 
 
 1. Navigate to the root directory of this project.
 2. Open the Jupyter notebook:
+3. Run the cells in the notebook as needed.
+
+## Compiling and Running the Java Code
+
+### Compilation
+
+1. Navigate to the `Java/src/nwalgorithm` directory.
+2. Compile the Java files:
