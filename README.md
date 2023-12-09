@@ -1,10 +1,10 @@
-# SGSeq Final Project
+# CGSeq Final Project
 
 This repository contains the code for the SGSeq final project, which includes few python scripts and a Java implementation of the NW algorithm.
 
 ## Structure
 
-- `sgseq_final_project.ipynb`: Used as a playbook to experiment and collaborate (Google Colab).
+- `cgseq_final_project.ipynb`: Used as a playbook to experiment and collaborate (Google Colab).
 - `Java/src/nwalgorithm`: Contains the Java implementation of the NW algorithm.
   - `Nw.java`: The main code for the NW algorithm.
   - `Main.java`: Demonstrates how to run the NW algorithm.
